@@ -1,1 +1,1 @@
-# 4wd-obstacle-avoidance-smart-robot-car
+an ESP32 DevKit microcontroller, an L298N Dual H-Bridge motor driver, an SG90 servo motor, and an HC-SR04 ultrasonic distance sensor. The robot continuously scans its path while moving forward and uses a servo-mounted ultrasonic scanner to evaluate left and right clearances whenever an obstacle is detected, autonomously navigating toward the most open direction.
